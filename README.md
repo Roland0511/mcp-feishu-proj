@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/roland0511-mcp-feishu-proj-badge.png)](https://mseep.ai/app/roland0511-mcp-feishu-proj)
+
 # MCP-飞书项目管理工具
 
 基于MCP（Model Context Protocol）协议的飞书项目管理工具，允许AI助手通过MCP协议与飞书项目管理系统进行交互。
