@@ -1,3 +1,12 @@
+> ⚠️ **项目已归档**
+> 飞书项目已推出官方的[MCP Server](https://project.feishu.cn/b/helpcenter/1p8d7djs/jdmql9oj)服务。
+> 
+> 因此后续本仓库不再进行维护或更新。  
+> 请勿提交新的 Issue、Pull Request 或修改请求。  
+> 若需参考历史内容，可在只读模式下浏览本仓库。
+>
+> 👉 建议查看飞书项目[官方文档](https://project.feishu.cn/b/helpcenter/1p8d7djs/73n2upf3)以获得最新的支持。
+
 # MCP-飞书项目管理工具
 
 基于MCP（Model Context Protocol）协议的飞书项目管理工具，允许AI助手通过MCP协议与飞书项目管理系统进行交互。
